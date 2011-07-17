@@ -1,0 +1,4 @@
+This project utilizes Java to create a fully functional Solitaire game.  On top of the game, an AI player has been implemented utilizing strategies found at:
+http://www.chessandpoker.com/solitaire_strategy.html
+
+The graphics for the deck of cards were created by Jesse Fuchs and Tom Hart (http://www.eludication.org/playingcards.html) who utilized SVG-cards created by David Bellot (http://svg-cards.sourceforge.net/).
